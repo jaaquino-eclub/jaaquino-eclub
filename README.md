@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaaquino-eclub
+- 👋 Hi, I’m Andy (@jaaquino-eclub)
 - 👀 I’m interested in computer science and physics
 - 🌱 I’m currently learning how to make microservices with Java ☕
 - 💞️ I’m looking to collaborate on microservices
